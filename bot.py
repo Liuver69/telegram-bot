@@ -9,7 +9,8 @@ from telegram.ext import (
 )
 
 # 🔑 CONFIG
-TOKEN = "8773722575:AAH87ltDqGIzxAbOure0m-XIwBpmKE-M-4U"
+import os
+TOKEN = os.getenv("TOKEN")
 GROUP_ID = -1001234567890  # ID de tu grupo
 ADMIN_ID = 7813841188       # TU ID
 
