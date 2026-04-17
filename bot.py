@@ -17,7 +17,7 @@ from telegram.ext import (
 logging.basicConfig(level=logging.INFO)
 
 TOKEN = os.getenv("TOKEN")
-ADMIN_ID = 123456789  # CAMBIA ESTO
+ADMIN_ID = 7813841188  # CAMBIA ESTO
 
 DB_FILE = "db.json"
 
