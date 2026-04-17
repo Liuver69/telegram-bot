@@ -9,9 +9,9 @@ from telegram.ext import (
 )
 
 # 🔑 CONFIG
-TOKEN = "AQUI_TU_TOKEN"
+TOKEN = "8773722575:AAH87ltDqGIzxAbOure0m-XIwBpmKE-M-4U"
 GROUP_ID = -1001234567890  # ID de tu grupo
-ADMIN_ID = 123456789       # TU ID
+ADMIN_ID = 7813841188       # TU ID
 
 DB_FILE = "db.json"
 
